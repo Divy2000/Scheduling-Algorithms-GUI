@@ -52,26 +52,34 @@ Instructions Guiding through our code :-
 A. Once you import the project and open it in the IDE as mentioned above in poin
 number A.(2.). You will get two packages in the code named GUI and
 Resources.
+
 B. GUI contains the main .java files and the code of jframes, while resources
 contains one image which we have used in our main page.
+
 C. In GUI, mainPage.java is our main file you can double click it and go to the
 design section, there you can double click any button to review the code which
 directs you to the respective jFrame.
+
 D. When you review the code of the particular jFrames, you can review the code of
 each button there by double clicking it from the design tab.
+
 E. Text Fields : Each text field is having its behavioral code in onFocusGain and
 onFocusLost methods, which you will find in the events section in properties, you
 can double click and review that code there.
 
 F. Add button has the code to add each row to the table according to the input, it
 also has code to automatically set zero as default value, if no input is given.
+
 G. Remove button is having the code to remove the last entry of the table.
+
 H. Clear button is having the code to remove all entries from the table and clear the
 data.
+
 I. Execute button of each JFrame is having the main algorithm to take the data
 from the table and give the output to the table.
 In the case of Round Robin, this is having the code to set Time Quantum to 1
 by default if no value is given.
+
 J. Back button is having the code to direct you back to the main algorithm
 selection page.
 K. Fetch Data button by clicking this button you will be able to fetch the data
